@@ -1,0 +1,31 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "Boring Place to Go",
+      "summary": "Nothing to see here",
+      "body": "The travelers were sad to see that they had gone really really far to find only a tiny place with one noddy.",
+      "word": "Noddy",
+      "definition": "Plain two-wheeled horse-drawn cart  ",
+      "pronunciation": "Not"
+    },
+    {
+      "id": 2,
+      "title": "Excited People",
+      "summary": "Everywhere you look in this town people are excited",
+      "body": "Traveling to the town of Loud, you first notice that shouts of people followed by immediate epizeuxis.  It is really annoying!",
+      "word": "Epizeuxis",
+      "definition": "Immediate repetition of a word for emphasis  ",
+      "pronunciation": "Episeuksis"
+    },
+    {
+      "id": 3,
+      "title": "Hiking in The Back Woods",
+      "summary": "Nancy went hiking alone",
+      "body": "Nancy was very foolish and headed into the mountains.  They were very steep with narrow trails and she almost fell into the khor.",
+      "word": "Khor",
+      "definition": "A dry watercourse; a ravine  ",
+      "pronunciation": "Khor"
+    }
+  ]
+}
